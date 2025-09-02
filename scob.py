@@ -3,7 +3,7 @@ import os
 
 os.system('clear')
 
-__version__ = 'beta'
+__version__ = '0.3'
 __author__ = "iraq_Team"
 
 print(f'''
