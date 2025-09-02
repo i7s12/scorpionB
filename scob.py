@@ -7,7 +7,7 @@ __version__ = 'beta'
 __author__ = "iraq_Team"
 
 print(f'''
-{F.RED}
+{F.BLUE}
 .___                       
 |   |___________    ______ 
 |   \_  __ \__  \  / ____/ 
